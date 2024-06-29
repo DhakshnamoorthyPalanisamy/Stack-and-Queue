@@ -62,11 +62,11 @@ class Stack_LL{
     }
     
 }
-/*Output:
+/* 
+Output:
 Enter total elements : 5
 Enter Elements : 3 6 3 12 15
 Top element : 15
 Inserted elements in stack are :
 15 12 9 6 3 
- * 
  */
